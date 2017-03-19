@@ -1,2 +1,3 @@
 # hello-world
-Reviendo como era github
+Reeviendo como era github.
+Soy jeremias, el capo de Playstation.
